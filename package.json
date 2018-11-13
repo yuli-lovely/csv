@@ -1,0 +1,46 @@
+{
+  "_from": "git+http://git.liebaopay.com/lijian/csv.git",
+  "_id": "csv@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/csv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://git.liebaopay.com/lijian/csv.git",
+    "rawSpec": "git+http://git.liebaopay.com/lijian/csv.git",
+    "saveSpec": "git+http://git.liebaopay.com/lijian/csv.git",
+    "fetchSpec": "http://git.liebaopay.com/lijian/csv.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+http://git.liebaopay.com/lijian/csv.git#45780bb37c82c3441bb5697ebbfc8334c240567e",
+  "_spec": "git+http://git.liebaopay.com/lijian/csv.git",
+  "_where": "E:\\Basic\\cmShow\\manager_node",
+  "author": {
+    "name": "lijian@cmcm.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  },
+  "deprecated": false,
+  "description": "node 实现生成csv",
+  "keywords": [
+    "csv"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "csv",
+  "repository": {
+    "type": "git",
+    "url": "http://git.liebaopay.com/lijian/csv.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
